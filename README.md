@@ -1,14 +1,11 @@
 # Life-Expectancy-Dataset-EDA-and-ML-Prediction
-
-Here's a **properly formatted `README.md` file** for your project:
-
 ---
 
 # 📊 Life Expectancy Prediction Project
 
 ## 📌 Overview
 
-This project aims to **predict the life expectancy of a country** based on various health, economic, and social factors from the **"Life Expectancy (WHO)" dataset**.
+This project aims to **predict the life expectancy of a country** based on various health, economic, and social factors from the **"Life Expectancy" dataset**.
 The project involves a **complete machine learning workflow**, including:
 
 * Exploratory Data Analysis (EDA)
